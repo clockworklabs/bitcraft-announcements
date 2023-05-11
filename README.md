@@ -1,1 +1,1 @@
-# bitcraft-known-issues
+Sound is missing in the game
