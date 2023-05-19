@@ -1,2 +1,3 @@
-Sound is missing in the game
-Some other issue etc.
+• Sound is missing in the game
+
+• Some other issue etc.
