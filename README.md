@@ -3,3 +3,4 @@ Pre-alpha 10 features fundamental biomes like forests, grasslands, mountains, an
 Not all known travelers are active. Our apologies if your favorite is missing in this build. 
 The pre-alpha version of BitCraft has unfortunately no sound but this will change in the future.
 <b>Keybindings</b> Can currently not be customized, our apologies.
+We are aware of performance problems, some of the graphics is not optmized and there are some performance issues for some large UI windows (e.g. copendium)
