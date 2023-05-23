@@ -1,3 +1,4 @@
+<b>IMPORTANT</b> Sometimes controls will lock up. Usually opening and closing any window will unlock them.
 The <b>UI</b> received a complete overhaul and some UI icons are still missing.
 Pre-alpha 10 features fundamental biomes like forests, grasslands, mountains, and water areas but other announced biomes are not in this build.
 Not all known travelers are active. Our apologies if your favorite is missing in this build. 
