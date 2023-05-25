@@ -1,4 +1,5 @@
 The <b>UI</b> received a complete overhaul we're aware of several bugs which haven't been fixed yet, feel free to report anything you find.
+Navigating past the edge of the world can get your character permanently stuck! <b>Don't do it!</b>
 Placing claim totem construction sites near other claim totem construction sites can cause the claims to misbehave once built.
 The Tier background color of inventory pockets can sometimes change or show inconsistently.
 You currently can't split stacks of items, this is not intended.
