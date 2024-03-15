@@ -1,18 +1,18 @@
 [
    {
       "type":"Critical",
-      "title":"New Interface",
-      "description":"The UI received a complete overhaul and some UI icons are still missing."
+      "title":"Login Queue",
+      "description":"Sadly if your game crashes or you need to restart you’ll need to join the login queue again. We would have liked to have a grace period, but didn’t have time to implement it."
    },
    {
       "type":"Critical",
-      "title":"Biomes",
-      "description":"Pre-alpha 10 features fundamental biomes like forests, grasslands, mountains, and water areas but other announced biomes are not in this build."
+      "title":"Movement",
+      "description":"Technically not an issue, but some players may disagree. This game is point-and-click. We have tested WASD internally, and will continue to explore other movement schemes."
    },
    {
-      "type":"Info",
-      "title":"Travelers",
-      "description":"Not all known travelers are active. Our apologies if your favourite is missing in this build."
+      "type":"Critical",
+      "title":"UI",
+      "description":"There are some UI crashes that are unrecoverable. We tried to fix as many of these as we can, but when they do happen you will need to restart the game."
    },
    {
       "type":"Info",
@@ -21,57 +21,22 @@
    },
    {
       "type":"Info",
-      "title":"Title",
-      "description":"Description"
+      "title":"Icons",
+      "description":"We tried to generate icons for everything (there are many thousands of elements) but it’s possible that some icons are incorrect or missing."
    },
    {
       "type":"Info",
-      "title":"Title",
-      "description":"Description"
+      "title":"Skills",
+      "description":"Many skills are still in prototype state (e.g. farming). We are planning to add more depth, variety and uniqueness to each skill soon"
    },
    {
       "type":"Info",
-      "title":"Title",
-      "description":"Description"
+      "title":"General Jank",
+      "description":"This is an alpha, there will be some janky things here and there."
    },
    {
       "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
-   },
-   {
-      "type":"Info",
-      "title":"Title",
-      "description":"Description"
+      "title":"UI Opacity Settings",
+      "description":"We recently added an experimental Window Opacity slider for the UI, which works well in dark mode, but if you go too transparent in light mode you may have trouble reading text."
    }
 ]
