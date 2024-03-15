@@ -12,10 +12,6 @@
       "description":"There are some UI crashes that are unrecoverable. We tried to fix as many of these as we can, but when they do happen you will need to restart the game."
    },
    {
-      "title":"sound",
-      "description":"The pre-alpha version of BitCraft has unfortunately no sound but this will change in the future."
-   },
-   {
       "title":"Icons",
       "description":"We tried to generate icons for everything (there are many thousands of elements) but it’s possible that some icons are incorrect or missing."
    },
