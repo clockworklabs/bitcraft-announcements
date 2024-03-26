@@ -1,5 +1,9 @@
 [
    {
+      "title":"Chat",
+      "description":"Chat appears to be misbehaving, we are looking into it."
+   },
+   {
       "title":"Login Queue",
       "description":"Sadly if your game crashes or you need to restart you’ll need to join the login queue again. We would have liked to have a grace period, but didn’t have time to implement it."
    },
