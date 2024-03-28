@@ -3,5 +3,10 @@
       "type":"Critical",
       "title":"Closed Alpha Preview",
       "description":"Welcome! This Closed Alpha Preview will start on March 26th 2024 and will run for about 2 days."
+   },
+   {
+      "type":"Critical",
+      "title":"Version Update",
+      "description":"We've pushed an update to fix a bug with traveler trades. Make sure you have the latest version, by closing the game and checking if the launcher has an Update button."
    }
 ]
