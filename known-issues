@@ -1,11 +1,15 @@
 [
    {
-      title: "macOS",
-      description: "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error."
+      "title": "macOS",
+      "description": "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error."
    },
    {
-      title: "Can't move anymore",
-      description: "We noticed an issue where you sometimes can't move anymore. Logging out and then back in should fix this. We are investigating the root cause."
+      "title": "Can't move anymore",
+      "description": "We noticed an issue where you sometimes can't move anymore. Logging out and then back in should fix this. We are investigating the root cause."
+   },
+   {
+      "title": "Map"
+      "description": "The map is still using an older style and UI. We are planning an update to make the map really cool!"  
    },
    {
       "title":"Movement Controls",
