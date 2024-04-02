@@ -2,11 +2,6 @@
    {
       "type":"Critical",
       "title":"Closed Alpha 1",
-      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be 5 minute grace period. In that time you can log back in without going through the queue."
-   },
-   {
-      "type":"Critical",
-      "title":"Version Update",
-      "description":"We've pushed an update to fix a bug with traveler trades. Make sure you have the latest version, by closing the game and checking if the launcher has an Update button."
+      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be a 5 minute grace period. In that time you can log back in without going through the queue."
    }
 ]
