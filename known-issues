@@ -1,7 +1,7 @@
 [
    {
       title: "macOS",
-      description: "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error"
+      description: "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error."
    },
    {
       "title":"Movement",
