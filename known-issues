@@ -8,7 +8,7 @@
       "description": "We noticed an issue where you sometimes can't move anymore. Logging out and then back in should fix this. We are investigating the root cause."
    },
    {
-      "title": "Map"
+      "title": "Map",
       "description": "The map is still using an older style and UI. We are planning an update to make the map really cool!"  
    },
    {
