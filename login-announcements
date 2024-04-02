@@ -1,8 +1,8 @@
 [
    {
       "type":"Critical",
-      "title":"Closed Alpha Preview",
-      "description":"Welcome! This Closed Alpha Preview will start on March 26th 2024 and will run for about 2 days."
+      "title":"Closed Alpha 1",
+      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be 5 minute grace period. In that time you can log back in without going through the queue."
    },
    {
       "type":"Critical",
