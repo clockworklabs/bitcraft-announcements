@@ -1,11 +1,7 @@
 [
    {
-      "title":"Chat",
-      "description":"Chat appears to be misbehaving, we are looking into it."
-   },
-   {
-      "title":"Login Queue",
-      "description":"Sadly if your game crashes or you need to restart you’ll need to join the login queue again. We would have liked to have a grace period, but didn’t have time to implement it."
+      title: "macOS",
+      description: "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error"
    },
    {
       "title":"Movement",
@@ -16,23 +12,15 @@
       "description":"There are some UI crashes that are unrecoverable. We tried to fix as many of these as we can, but when they do happen you will need to restart the game."
    },
    {
-      "title":"Character Rendering",
-      "description":"There is an issue where the legs/pants of the character show the incorrect color."
-   },
-   {
       "title":"Icons",
       "description":"We tried to generate icons for everything (there are many thousands of elements) but it’s possible that some icons are incorrect or missing."
    },
    {
       "title":"Skills",
-      "description":"Many skills are still in prototype state (e.g. farming). We are planning to add more depth, variety and uniqueness to each skill soon"
+      "description":"Many skills are still in prototype state (e.g. farming). We are planning to add more depth, variety and uniqueness to each skill."
    },
    {
       "title":"General Jank",
       "description":"This is an alpha, there will be some janky things here and there."
-   },
-   {
-      "title":"UI Opacity Settings",
-      "description":"We recently added an experimental Window Opacity slider for the UI, which works well in dark mode, but if you go too transparent in light mode you may have trouble reading text."
    }
 ]
