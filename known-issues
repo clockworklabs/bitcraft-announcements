@@ -4,7 +4,11 @@
       description: "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error."
    },
    {
-      "title":"Movement",
+      title: "Can't move anymore",
+      description: "We noticed an issue where you sometimes can't move anymore. Logging out and then back in should fix this. We are investigating the root cause."
+   },
+   {
+      "title":"Movement Controls",
       "description":"Technically not an issue, but some players may disagree. This game is point-and-click. We have tested WASD internally, and will continue to explore other movement schemes."
    },
    {
