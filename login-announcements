@@ -2,6 +2,6 @@
    {
       "type":"Critical",
       "title":"Closed Alpha 1",
-      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be a 5 minute grace period. In that time you can log back in without going through the queue."
+      "description":"We've pushed a patch, check your launcher for an Update button. This fixes an issue with severe lag inside interiors and adds some new icons."
    }
 ]
