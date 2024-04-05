@@ -1,7 +1,7 @@
 [
    {
       "type":"Critical",
-      "title":"Closed Alpha 1",
-      "description":"We've pushed a patch, check your launcher for an Update button. This fixes an issue with severe lag inside interiors and adds some new icons."
+      "title":"Server Maintenance",
+      "description":"The server will be undergoing maintenance to investigate issues with resource spawning, traveler spawning and lag. The server will be down from 3AM until 11PM PDT.
    }
 ]
