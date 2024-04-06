@@ -1,7 +1,7 @@
 [
    {
       "type":"Critical",
-      "title":"Closed Alpha 1",
-      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be a 5 minute grace period. In that time you can log back in without going through the queue."
+      "title":"Server Maintenance",
+      "description":"The server is currently down for maintenance while we work to sort out the issues with lag. We don't have an ETA for when this will be back up at this time. Please check our discord for more updates. Thank you for your patience!"
    }
 ]
