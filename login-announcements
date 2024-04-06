@@ -1,7 +1,7 @@
 [
    {
       "type":"Critical",
-      "title":"Server Maintenance",
-      "description":"The server will be undergoing maintenance to investigate issues with resource spawning, traveler spawning and lag. The server will be down from 3AM until 11PM PDT on April 5th 2024."
+      "title":"Closed Alpha 1",
+      "description":"Welcome to the BitCraft Closed Alpha! Once you authenticate, you will join a login queue. If you log out there will be a 5 minute grace period. In that time you can log back in without going through the queue."
    }
 ]
