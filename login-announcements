@@ -1,7 +1,8 @@
 [
+      
    {
       "type":"Critical",
-      "title":"Server Maintenance",
-      "description":"The server is currently down for maintenance while we work to sort out the issues with lag. We don't have an ETA for when this will be back up at this time. Please check our discord for more updates. Thank you for your patience!"
+      "title":"Closed Alpha 1",
+      "description":"We've pushed a patch that should improve performance for opening certain crafting stations, and exploring. Make sure to Update on the BitCraft launcher."
    }
 ]
