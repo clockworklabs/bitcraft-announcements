@@ -2,7 +2,7 @@
       
    {
       "type":"Critical",
-      "title":"Server Maintenance",
-      "description":"The BitCraft server will be down for maintenance on April 11th between 2:30PM and 3:30PM CET time"
+      "title":"Closed Alpha 1",
+      "description":"The BitCraft server, powered by SpacetimeDB is up and running."
    }
 ]
