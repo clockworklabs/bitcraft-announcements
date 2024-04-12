@@ -2,7 +2,7 @@
       
    {
       "type":"Critical",
-      "title":"Closed Alpha 1",
-      "description":"The BitCraft server, powered by SpacetimeDB is up and running."
+      "title":"Login Server Issue",
+      "description":"The BitCraft login server is experiencing an issue. We are investigating."
    }
 ]
