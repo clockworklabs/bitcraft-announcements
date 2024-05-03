@@ -2,7 +2,7 @@
       
    {
       "type":"Critical",
-      "title":"Disconnected Bug",
-      "description":"There is an issue with some players getting frequently disconnected. We've fixed an issue relating to this but it appears to still be happening and is related to either distance to the server or internet connection. Some players reported that connecting via a vpn that is closer to the server mitigates the issue."
+      "title":"Closed Alpha Ended",
+      "description":"Thank you to everyone that participated in the Closed Alpha! We are hard at work fixing issues and adding content."
    }
 ]
