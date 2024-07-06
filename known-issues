@@ -1,33 +1,5 @@
 [
    {
-      "title": "macOS",
-      "description": "The macOS build is less tested than Windows so it may be less stable. We are aware of an issue where some objects show up as pink because of a shader error."
-   },
-   {
-      "title": "Interiors",
-      "description": "Entering ruins or player build housing seem to sometimes cause big lag. You may need to restart if this is happening."
-   },
-   {
-      "title": "Can't move anymore",
-      "description": "We noticed an issue where you sometimes can't move anymore. Logging out and then back in should fix this. We are investigating the root cause."
-   },
-   {
-      "title": "Map",
-      "description": "The map is still using an older style and UI. We are planning an update to make the map really cool!"  
-   },
-   {
-      "title":"Movement Controls",
-      "description":"Technically not an issue, but some players may disagree. This game is point-and-click. We have tested WASD internally, and will continue to explore other movement schemes."
-   },
-   {
-      "title":"UI",
-      "description":"There are some UI crashes that are unrecoverable. We tried to fix as many of these as we can, but when they do happen you will need to restart the game."
-   },
-   {
-      "title":"Icons",
-      "description":"We tried to generate icons for everything (there are many thousands of elements) but it’s possible that some icons are incorrect or missing."
-   },
-   {
       "title":"Skills",
       "description":"Many skills are still in prototype state (e.g. farming). We are planning to add more depth, variety and uniqueness to each skill."
    },
