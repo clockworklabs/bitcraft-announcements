@@ -1,10 +1,6 @@
 [
    {
-      "title":"Skills",
-      "description":"Many skills are still in prototype state (e.g. farming). We are planning to add more depth, variety and uniqueness to each skill."
+      "title":"Damage/Health humbers",
+      "description":"Sometimes damage or health numbers remain on screen in some cases. We are investigating."
    },
-   {
-      "title":"General Jank",
-      "description":"This is an alpha, there will be some janky things here and there."
-   }
 ]
