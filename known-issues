@@ -3,4 +3,12 @@
       "title":"Damage/Health humbers",
       "description":"Sometimes damage or health numbers remain on screen in some cases. We are investigating."
    },
+   {
+      "title":"Tooltip Descriptions",
+      "description":"Some item descriptions are incorrect. A lot has changed and we are frantically working on updating them. In the meantime the compendium USE tab is a better source of information to know how and where to use an item or cargo."
+   },
+   {
+      "title":"Icons",
+      "description":"Some icons are probably missing or incorrect. Please let us know which ones, Jordan is veeery happy when you find more of these."
+   },
 ]
