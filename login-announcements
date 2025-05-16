@@ -2,7 +2,7 @@
       
    {
       "type":"Critical",
-      "title":"Technical Test - Planned Start Time: 10am ET",
+      "title":"Technical Test\n Planned Start Time: 10am ET",
       "description":"During this technical test our goal is to focus on testing our backend infrastructure so that in the upcoming gameplay preview we can ensure the best stability experience. This is an older build and a lot of features are disabled and it still has plenty of bugs that we fixed in newer builds (we have to give you a reason to come back after all). Don't worry about submitting bug reports, the purpose of this for is to profile server performance. Thanks and happy testing!"
    }
 ]
