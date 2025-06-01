@@ -2,7 +2,7 @@
    {
       "type":"Critical",
       "title": "Region Performance Issues",
-      "description": "We are debugging a hardware issue on two of our region servers that is causing significant performance degradation. If you are in Calenthyr or Marundel we recommend you transfer to another region using a Waystone in the npc town."
+      "description": "We have largely resolved the server hardware issues in the Calenthyr or Marundel regions. We are still working on fixing the known audio issues, memory leaks, and game performance issues that still affect all client frame rates. Thank you for your patience!"
    },
    {
       "type":"Critical",
