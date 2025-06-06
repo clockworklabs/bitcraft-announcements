@@ -1,11 +1,6 @@
 [   
    {
       "type":"Critical",
-      "title": "Region Performance Issues",
-      "description": "We have largely resolved the server hardware issues in the Calenthyr or Marundel regions. We are still working on fixing the known audio issues, memory leaks, and game performance issues that still affect all client frame rates. Thank you for your patience!"
-   },
-   {
-      "type":"Critical",
       "title": "BitCraft Online",
       "description": "Welcome to the BitCraft Online Demo! The servers will open on May 29th at 10am EST time. This is a free demo of the early access release on June 20th. You will be able to try out many gameplay features but progress will be capped at level 10 for all skills. We hope you enjoy the demo! If you do wishlist us on steam, and we hope to see you back on June 20th!"
    }
