@@ -2,6 +2,6 @@
    {
       "type":"Critical",
       "title": "Welcome To BitCraft Online!",
-      "description": "We have been hard at work improving the performance of the server overnight. Check out the details here: https://bitcraftonline.com/blog/early-access-day-2-update-the-server-saga.\n\n We also have a bunch of client performance and bug fixes in the works!",
+      "description": "You may have been experiencing server instability in the last 20 minutes. We just finised rolling out a patch that fixes enemies ignore light sources like campfires. The servers have stabalized now and things are back to normal!",
    }
 ]
