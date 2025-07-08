@@ -1,6 +1,11 @@
 [   
    {
       "type":"Critical",
+      "title": "Server Maintenance - July 7th 2025",
+      "description": "Please note that BitCraft Online will be inaccessible during the upcoming maintenance, scheduled for the times below. We apologize for any inconvenience this may cause and appreciate your patience and understanding.\nMaintenance is expected to last for one hour.\nDate & Time:\nPST:  (02:00 Wednesday)\nCST:  (04:00 Wednesday)\nEST:  (05:00 Wednesday)\nUTC: (09:00 Wednesday)\nJST:  (18:00 Wednesday)",
+   }
+   {
+      "type":"Critical",
       "title": "BitCraft Online - Early Access!",
       "description": "Welcome to BitCraft Online! We are excited to have you join us in this Beta/Early Access phase. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a ticket at https://support.bitcraftonline.com.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a ticket at https://support.bitcraftonline.com.\n\nThank you for your support and we hope you enjoy the game!",
    }
