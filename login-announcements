@@ -1,4 +1,9 @@
-[   
+[
+   {
+      "type":"Critical",
+      "title": "SERVER MAINTENANCE",
+      "description": "The server will be down for 10 minutes at 1:35am PST/10:35am CET/5:35pm JST. We apologize for any inconvenience.",
+   },
    {
       "type":"Critical",
       "title": "BitCraft Online - Early Access!",
