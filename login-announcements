@@ -1,7 +1,7 @@
 [
    {
       "type":"Critical",
-      "title": "July Monthly Update - Player Housing!",
-      "description": "Talk to Brico to get your housing deed and get your own personal house!\n\nWelcome to BitCraft Online! We are excited to have you join us in this Beta/Early Access phase. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a ticket at https://support.bitcraftonline.com.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a ticket at https://support.bitcraftonline.com.\n\nThank you for your support and we hope you enjoy the game!",
+      "title": "We are investigating an issue with the login server",
+      "description": "The login server is experincing an issue which is causing logins to fail. We are looking into this with high priority. We apologize for the inconvenience.",
    }
 ]
