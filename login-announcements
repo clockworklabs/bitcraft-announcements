@@ -1,9 +1,4 @@
-[   
-   {
-      "type":"Critical",
-      "title": "Server Maintenance - Today Sept 24th",
-      "description": "Please note that BitCraft Online will be inaccessible during the upcoming maintenance, scheduled for the times below. We apologize for any inconvenience this may cause and appreciate your patience and understanding.\nMaintenance is expected to last 10 minutes.\nDate & Time:\nPST:  (01:10 Wednesday)\nCST:  (03:10 Wednesday)\nEST:  (04:10 Wednesday)\nUTC: (08:10 Wednesday)\nJST:  (19:10 Wednesday)"
-   },
+[
    {
       "type":"Critical",
       "title": "BitCraft Online - Early Access!",
