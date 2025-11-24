@@ -1,6 +1,11 @@
 [
    {
       "type":"Critical",
+      "title": "Server Downtime - November 25th 2025",
+      "description": "Please note that BitCraft Online will be inaccessible during the server meintenance, scheduled for the times below. We apologize for any inconvenience this may cause and appreciate your patience and understanding.\nMaintenance is expected to last 30 minutes.\nDate & Time:\nPST:  (01:00 Thursday)\nCST:  (03:00 Thursday)\nEST:  (05:00 Wednesday)\nUTC: (09:00 Thursday)\nJST:  (18:00 Thursday)"
+   },
+   {
+      "type":"Critical",
       "title": "BitCraft Online - Early Access!",
       "description": "Welcome to BitCraft Online! We are excited to have you join us in this Beta/Early Access phase. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nThank you for your support and we hope you enjoy the game!\n\nIf you haven't already, please leave a review on <a href=https://store.steampowered.com/app/3454650/BitCraft_Online><style=link>Steam</style></a>",
    }
