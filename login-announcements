@@ -1,6 +1,12 @@
 [
    {
       "type":"Critical",
-      "title": "Login Issue With Gmail",
-      "description": "We are investigating an issuse causing players to be unable to login using gmail accounts. We apologize for the inconvenience, we hope to resolve this soon"   }
+      "title": "Solved - Login Issue With Gmail",
+      "description": "We experienced an issue with our login system for gmail emails. This issue should now be resolved and you should be able to receive your access code, and login on our website again. We apologize for the inconvenience this has caused."
+   },
+   {
+      "type":"Critical",
+      "title": "BitCraft Online - Early Access!",
+      "description": "Welcome to BitCraft Online! We are excited to have you join us in this Beta/Early Access phase. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nThank you for your support and we hope you enjoy the game!\n\nIf you haven't already, please leave a review on <a href=https://store.steampowered.com/app/3454650/BitCraft_Online><style=link>Steam</style></a>",
+   }
 ]
