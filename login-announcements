@@ -1,8 +1,8 @@
 [
    {
       "type":"Critical",
-      "title": "Coconuts and Companions",
-      "description": "We are investigating an issue that's causing the access codes to not be delivered through email. Thank you for your patience and understanding.",
+      "title": "Access code delivery issue",
+      "description": "We are investigating an issue that's causing access codes to not be delivered through email. Thank you for your patience and understanding.",
    },
    {
       "type":"Critical",
