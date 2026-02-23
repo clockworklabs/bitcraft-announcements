@@ -1,6 +1,11 @@
 [
    {
       "type":"Critical",
+      "title": "Scheduled Maintenance",
+      "description": "The server will be down for maintenance for approximately 2 hours in preparations for the wipe on February 26th. Join us on <a href=https://www.twitch.tv/bitcraftonline><style=link>stream</style></a> to hear more about the 2026 roadmap and future of the game!",
+   },
+   {
+      "type":"Critical",
       "title": "New player information",
       "description": "If you are a new player joining before the world wipe, this is the best time to jump in and learn about BitCraft before the upcoming world wipe happens. You can find out more about the wipe in our latest blog post going over what's next for BitCraft <a href=https://bitcraftonline.com/news/update-on-the-poll-and-wipe><style=link>here</style></a>",
    },
