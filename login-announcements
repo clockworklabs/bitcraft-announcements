@@ -1,12 +1,12 @@
 [
    {
       "type":"Critical",
-      "title": "New player information",
-      "description": "If you are a new player joining before the world wipe, this is the best time to jump in and learn about BitCraft before the upcoming world wipe happens. You can find out more about the wipe in our latest blog post going over what's next for BitCraft <a href=https://bitcraftonline.com/news/update-on-the-poll-and-wipe><style=link>here</style></a>",
+      "title": "Wipe Downtime",
+      "description": "BitCraft is currently unavailable for 24 hours while the wipe is prepared. You will be able to login on Feb 26th at 15:00 UTC. You can see more info <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>here</style></a>",
    },
    {
       "type":"Critical",
       "title": "BitCraft Online - Early Access!",
-      "description": "Welcome to BitCraft Online! We are excited to have you join us in this Beta/Early Access phase. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nThank you for your support and we hope you enjoy the game!\n\nIf you haven't already, please leave a review on <a href=https://store.steampowered.com/app/3454650/BitCraft_Online><style=link>Steam</style></a>",
+      "description": "Welcome to BitCraft Online! We are excited to have you join us in Early Access. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nThank you for your support and we hope you enjoy the game!\n\nIf you haven't already, please leave a review on <a href=https://store.steampowered.com/app/3454650/BitCraft_Online><style=link>Steam</style></a>",
    }
 ]
