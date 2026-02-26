@@ -1,12 +1,12 @@
 [
    {
       "type":"Critical",
-      "title": "Wipe Downtime",
-      "description": "BitCraft is currently unavailable for 24 hours while the wipe is prepared. You will be able to login on Feb 26th at 17:00 UTC. You can see more info <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>here</style></a>",
+      "title": "Early Access 2 Begins!",
+      "description": "Jump back into the fresh world of Starfell as we being Early Access 2. You will have a chance to recliam your name and EXP from the previous world, note that with exp curve changes your level might have changed slightly. You can see more info about the world wipe <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>here</style></a>",
    },
    {
       "type":"Critical",
-      "title": "BitCraft Online - Early Access!",
+      "title": "BitCraft Online - Early Access 2!",
       "description": "Welcome to BitCraft Online! We are excited to have you join us in Early Access. Please note that the game is still in development, and you may encounter bugs or issues. We appreciate your feedback and support as we continue to improve the game.\n\nIf you do not receive an email code, please check your spam settings. If you still do not receive it, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nIf you are disconnecting from the server or unable to get into the game after entering your email code, try switching networks or using a VPN. If you are still having issues, please submit a <a href=https://support.bitcraftonline.com><style=link>support ticket</style></a>.\n\nThank you for your support and we hope you enjoy the game!\n\nIf you haven't already, please leave a review on <a href=https://store.steampowered.com/app/3454650/BitCraft_Online><style=link>Steam</style></a>",
    }
 ]
