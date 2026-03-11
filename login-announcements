@@ -1,13 +1,8 @@
 [
    {
       "type":"Critical",
-      "title": "Empire Watchtower Pause",
-      "description": "Empire sieges and watchtower decay are temporarily disabled due to ongoing issues. The UI will appear to still be decaying, however you should not lose any energy.",
-   },
-   {
-      "type":"Critical",
       "title": "Early Access 2 Begins!",
-      "description": "Jump back into the fresh world of Starfell as we being Early Access 2. You will have a chance to recliam your name and EXP from the previous world, note that with exp curve changes your level might have changed slightly. You can see more info about the world wipe <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>here</style></a>",
+      "description": "Jump back into the fresh world of Starfell as we being Early Access 2. You will have a chance to recliam your name and EXP from the previous world, note that with exp curve changes your level might have changed slightly. You can see more info about the world wipe <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>here</style></a>\n\nEmpire sieges and watchtower decay are temporarily disabled due to ongoing issues. The UI will appear to still be decaying, however you should not lose any energy.",
    },
    {
       "type":"Critical",
