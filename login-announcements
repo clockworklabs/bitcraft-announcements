@@ -1,11 +1,6 @@
 [
    {
       "type":"Critical",
-      "title": "Server Downtime - March 19th 2026",
-      "description": "Please note that BitCraft Online will be inaccessible during the server meintenance, scheduled for the times below. We apologize for any inconvenience this may cause and appreciate your patience and understanding.\nMaintenance is expected to last 60 minutes.\nDate & Time:\nPST:  (06:00 Thursday)\nCST:  (08:00 Thursday)\nEST:  (09:00 Wednesday)\nUTC: (14:00 Thursday)\nJST:  (23:00 Thursday)"
-   },
-   {
-      "type":"Critical",
       "title": "Early Access 2 Begins!",
       "description": "Jump back into the fresh world of Starfell as we being Early Access 2. You will have a chance to recliam your name and EXP from the previous world, note that with exp curve changes your level might have changed slightly. You can read more about the world wipe in our <a href=https://bitcraftonline.com/news/maintenance-and-wipe-clarity><style=link>Maintenance and Wipe Clarity</style></a> news post.",
    },
